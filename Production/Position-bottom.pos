@@ -1,0 +1,8 @@
+### Module positions - created on 21.04.2020 17:30:18 ###
+### Printed by Pcbnew version kicad (5.1.5)-3
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                Package                               PosX       PosY       Rot  Side
+J2        DB9_Female         DSUB-9_Female_EdgeMount_P2.77mm  -148.6154  -115.2398  180.0000  bottom
+U3        Micro_SD_Card_Det  microSD_HC_Molex_104031-0811     -148.0400  -106.5800  180.0000  bottom
+## End
